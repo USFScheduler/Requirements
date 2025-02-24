@@ -1,6 +1,6 @@
 # Requirements
 
-11 Points of SRS 
+# 11 Points of SRS 
 
 Purpose Statement (i.e., the purpose of the SRS and its intended audience) - The purpose of the SRS is to state all requirements of the proposed system once discovered. This SRS contains details regarding the functional and non-functional requirements of the project in a technical nature. In this SRS, we detail key components and requirements for the Auto Scheduler, including its overview vocabulary, constraints, and assumptions. 
 
@@ -9,33 +9,23 @@ Overview (i.e., the contents of the SRS and how they are organized) - This SRS h
 Product Perspective (i.e., a description of how the proposed system relates to existing organizational systems) - Currently, there are multiple helpful systems in place which we will draw inspiration from. Of course, Canvas is a necessary tool/system in this project – we intend to use the API from Canvas to obtain data on a student’s assignments. Also, there are scheduling apps in place that we can look to for an understanding of current scheduling systems; however, our unique project uses Canvas and our own scheduling system to implement students’ assignments into their schedules. 
 
 List of Functional Requirements (i.e., what the software system must do) -  
-
 Manage events throughout the week 
-
 Support a schedule system for user to input current schedule 
-
 Send reminders for whenever events start 
-
 Automatically schedule upcoming Canvas Assignments into user schedule  
 
 List of Non-Functional Requirements (i.e., qualities the system must possess) -  
-
 Clean UI 
-
 Usability 
-
 Good Performance 
-
 Scalability 
-
 Customizability  
-
 Interoperability 
 
 List of Defined Terms (i.e., words and phrases, acronyms, and abbreviations) -  
-
+SRS - Software Requirements Specification
+UI - User Interface
 Auto Scheduler – Application  
-
 Canvas API – A RestAPI connection to Canvas, a web application that students use mandatorily by the University for class modules.  
 
 List of References (i.e., referenced in the SRS and their sources) - The documentation for the Canvas API can be found here: https://canvas.instructure.com/doc/api/ 
