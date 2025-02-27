@@ -2,7 +2,7 @@
 
 # 11 Points of SRS 
 
-1) Purpose Statement (i.e., the purpose of the SRS and its intended audience) - The purpose of the SRS is to state all requirements of the proposed system once discovered. This SRS contains details regarding the functional and non-functional requirements of the project in a technical nature. In this SRS, we detail key components and requirements for the Auto Scheduler, including its overview vocabulary, constraints, and assumptions. 
+1) *Purpose Statement* (i.e., the purpose of the SRS and its intended audience) - The purpose of the SRS is to state all requirements of the proposed system once discovered. This SRS contains details regarding the functional and non-functional requirements of the project in a technical nature. In this SRS, we detail key components and requirements for the Auto Scheduler, including its overview vocabulary, constraints, and assumptions. 
 
 2) Overview (i.e., the contents of the SRS and how they are organized) - This SRS has many parts to it. Namely, our features will be listed out and organized through multiple metrics. Key metrics include functional vs non-functional, priority, constraints, and stability. The SRS will go into detail on the perspective of the project, defined terms and references, end-user characteristics, constraints, standards, and assumptions. 
 
