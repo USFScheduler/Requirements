@@ -28,12 +28,14 @@ UI - User Interface
 Auto Scheduler – Application  
 Canvas API – A RestAPI connection to Canvas, a web application that students use mandatorily by the University for class modules.  
 
-7) List of References (i.e., referenced in the SRS and their sources) - The documentation for the Canvas API can be found here: https://canvas.instructure.com/doc/api/ 
+7) List of References (i.e., referenced in the SRS and their sources) -
+The documentation for the Canvas API can be found here: https://canvas.instructure.com/doc/api/
+Our standard for Ruby coding and formatting is found here: https://github.com/rubocop/ruby-style-guide
 
-8) List of End-User Characteristics (e.g., educational level, experience, technical expertise) - End users will primarily be USF Students but will eventually expand to all college students who use Canvas. As such, the education level is at a college level.  A user that is enlisted into a university will frequently use technology and application that is at the technical level as our application. 
+10) List of End-User Characteristics (e.g., educational level, experience, technical expertise) - End users will primarily be USF Students but will eventually expand to all college students who use Canvas. As such, the education level is at a college level.  A user that is enlisted into a university will frequently use technology and application that is at the technical level as our application. 
 
-9) List of Constraints (i.e., operational and/or technical constraints) - This project must be able to run on Android and/or IOS, as we intend to have a mobile application. To meet class requirements, we likely also need to implement Ruby for some processes. Also, the current version of Canvas must be supported by any software used. 
+11) List of Constraints (i.e., operational and/or technical constraints) - This project must be able to run on Android and/or IOS, as we intend to have a mobile application. To meet class requirements, we likely also need to implement Ruby for some processes. Also, the current version of Canvas must be supported by any software used. 
 
-10) List of Standards (e.g., programming languages used, coding standards applied) - We plan to use Ruby on Rails to implement the server-side logic aka. backend and React Native for the user handling side aka frontend. 
+12) List of Standards (e.g., programming languages used, coding standards applied) - We plan to use Ruby on Rails to implement the server-side logic aka. backend and React Native for the user handling side aka frontend. 
 
-11) List of Assumptions (e.g., hardware/software platform targeted) - Our group makes the assumption that most users will have Android or IOS mobile devices; thus, these are the targeted platforms. 
+13) List of Assumptions (e.g., hardware/software platform targeted) - Our group makes the assumption that most users will have Android or IOS mobile devices; thus, these are the targeted platforms. 
