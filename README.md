@@ -8,18 +8,20 @@ This SRS has many parts to it. Namely, our features will be listed out and organ
 Currently, there are multiple helpful systems in place which we will draw inspiration from. Of course, Canvas is a necessary tool/system in this project – we intend to use the API from Canvas to obtain data on a student’s assignments. Also, there are scheduling apps in place that we can look to for an understanding of current scheduling systems; however, our unique project uses Canvas and our own scheduling system to implement students’ assignments into their schedules.  
 
 ## **List of Functional Requirements**  
-- Manage events throughout the week  
-- Support a schedule system for user to input current schedule  
-- Send reminders for whenever events start  
-- Automatically schedule upcoming Canvas Assignments into user schedule  
+- permit user to log in
+- permit user to input their current schedule
+- permit user to modify (add/change/delete) schedule events
+- permit user to check off a completed task
+- permit user to connect to Canvas
+- Generate view of upcoming schedule
+- Generate work times for upcoming tasks automatically
+- Generate reminders to send to phone
 
 ## **List of Non-Functional Requirements**  
-- Clean UI  
-- Usability  
-- Good Performance  
-- Scalability  
-- Customizability  
-- Interoperability  
+- Usability: the system shall be intuitive and easy to use for adding schedules
+- Scalability: The system shall at first be available for select USF students, then able to scale to general Canvas users
+- Security: Ensure canvas authentication with users
+- Security: Schedule information shall be securely stored to protect confidentiality of users 
 
 ## **List of Defined Terms**  
 - **SRS** - Software Requirements Specification  
